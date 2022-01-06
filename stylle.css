@@ -1,0 +1,76 @@
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: white;
+}
+.fullContainer {
+  width: 80%;
+  margin: auto;
+}
+h1 {
+  font-size: 50px;
+}
+.top-sec-title {
+  border-left: 7px solid #e55039;
+  padding-left: 5px;
+}
+span {
+  color: rgb(224, 69, 22);
+}
+.container {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 80%;
+}
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(rgb(11, 218, 56), rgb(56, 120, 156));
+  color: white;
+  font-weight: 700;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+.my-mission {
+  text-align: center;
+}
+.container img {
+  width: 65%;
+}
+#first {
+  background-color: rgb(228, 197, 228);
+  font-family: "Brush Script MT", cursive;
+  margin: 15px;
+  padding: 30px;
+  border-radius: 50px;
+}
+#second {
+  background-color: rgb(220, 230, 200);
+  font-family: "Brush Script MT", cursive;
+  margin: 15px;
+  padding: 30px;
+  border-radius: 30px;
+}
+#third {
+  background-color: rgb(205, 233, 224);
+  font-family: "Brush Script MT", cursive;
+  margin: 15px;
+  padding: 30px;
+  border-radius: 30px;
+}
+.endind {
+  text-align: center;
+  background-color: rgba(39, 25, 235, 0.568);
+  font-family: "Courier New", monospace;
+  color: white;
+  margin: 0;
+  padding: 10px;
+}
+.application {
+  text-align: center;
+}
